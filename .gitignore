@@ -1,0 +1,38 @@
+# Compiled binaries & applications
+chess
+chess_app
+*.app
+*.app/
+*.exe
+*.out
+*.bin
+*.dSYM/
+
+# Object files & libraries
+*.o
+*.obj
+*.dylib
+*.so
+*.dll
+*.a
+
+# Archives & compressed files
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+*.gz
+*.7z
+*.rar
+
+# macOS system files
+.DS_Store
+.AppleDouble
+._*
+
+# IDE & editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
